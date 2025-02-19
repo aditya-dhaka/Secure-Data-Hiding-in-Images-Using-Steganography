@@ -52,7 +52,8 @@ The results include the accuracy scores for all classifiers, with the XGBoost mo
 
 Here are some sample of result:
 
-![Output2](https://github.com/user-attachments/assets/f131fab8-899c-420c-8a0b-58d5acd2cb26)
+![image](https://github.com/user-attachments/assets/248146b9-6d02-4f93-9ff5-a61edeea9634)
+
 
 Contributing
 
